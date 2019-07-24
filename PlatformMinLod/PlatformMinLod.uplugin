@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "PlatformMinLod",
+	"Description": "StaticMeshにPlatformごとのMinLodを設定する",
+	"Category": "Other",
+	"CreatedBy": "dgtanaka",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "4.22.0",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "PlatformMinLod",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}
